@@ -1,0 +1,81 @@
+body {
+  background-color: #33C4FF;
+  font-family: helvetica;
+}
+
+header {
+  background-color: #FFD733;
+  width: 500px;
+  height: 100px;
+  border-radius: 10px 10px 0px 0px;
+  margin: 0 auto;
+}
+
+h3 {
+  color: #fff;
+  padding-top: 30px;
+  padding-left: 170px; 
+}
+
+.channel {
+  background-color: #fff;
+  width: 500px;
+  height:100px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+h4 {
+  position: absolute;
+  width: 50px;
+  margin-left: 200px;
+  color: #000;
+  margin-top: 40px;
+}
+
+p {
+  text-align: right;
+  padding-right: 30px;
+  padding-top: 30px;
+}
+
+img {
+  position: absolute;
+  width: 50px;
+  height: auto;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.navAll {
+  width: 200px;
+  height: auto;
+  margin-left: 170px;
+}
+
+.nav {
+  background-color: transparent;
+  color: #fff; 
+  border: none;
+  font-size: 16px;
+}
+
+button:clicked {
+  color: #000;
+}
+
+button:hover {
+  color: #000;
+}
+
+.active {
+  color: #000;
+}
+
+.online {
+ color: #09c400;
+}
+
+.offline {
+  color: #707070;
+}
